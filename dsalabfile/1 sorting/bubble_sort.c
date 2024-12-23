@@ -37,7 +37,7 @@ void printArray(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {60, 30, 20, 10, 70, 10, 90};
+    int arr[] = {60, 30, 20, 10, 50, 70, 90};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     printf("Original array: \n");

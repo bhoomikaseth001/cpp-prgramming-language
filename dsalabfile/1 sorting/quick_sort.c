@@ -67,7 +67,7 @@ void printArray(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {10, 7, 8, 9, 1, 5};
+    int arr[] = {70, 30, 40, 50, 20, 80, 90};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     printf("Original array: \n");
@@ -77,7 +77,7 @@ int main() {
 
     printf("Sorted array: \n");
     printArray(arr, n);
-printf("~Ashish Kumar Gupta \n CS-DS-2A \n 2301641540057");
+    printf("Bhoomika Seth \n 230164100156");
 
     return 0;
 }

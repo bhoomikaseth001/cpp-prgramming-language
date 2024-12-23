@@ -123,7 +123,7 @@ int main() {
     printf("Dequeued: %d\n", dequeue(&q));
     printf("Queue elements after dequeue: ");
     display(&q);
-printf("~Ashish Kumar Gupta \n CS-DS-2A \n 2301641540057");
+    printf("Bhoomika Seth \n 230164100156");
     
     return 0;
 }

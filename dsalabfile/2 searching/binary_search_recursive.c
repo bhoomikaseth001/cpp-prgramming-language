@@ -66,7 +66,7 @@ int main() {
     } else {
         printf("Element not found\n");
     }
-printf("~Ashish Kumar Gupta \n CS-DS-2A \n 2301641540057");
+    printf("Bhoomika Seth \n 230164100156");
 
     return 0;
 }
